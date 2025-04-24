@@ -19,6 +19,7 @@ Note: Sometimes Jupyter notebooks may not render all outputs properly (e.g., lon
 ## Models & Data
 
 - All major DataFrames and models are saved as **`.pkl`** files in the folders 'dataframes' and 'models' to preserve data types and avoid re-running heavy computations.
+- Run convert.py in the dataframes folder to be able to see the dataframes as .csv
 - The final model, **`gb_grid_auc_roc_w_new_feat.pkl`**, is the best-performing one after full grid search and threshold tuning.
   - ROC AUC: 87.42  
   - Final F1 Score: 0.62  
