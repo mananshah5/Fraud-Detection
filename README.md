@@ -1,3 +1,7 @@
+CID: C4689667
+Recruiter: Nick Peppe
+Version: v20.01
+
 # CapOne DS Challenge
 
 This repository contains my submission for the Capital One Data Science Challenge.
