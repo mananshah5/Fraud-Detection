@@ -1,5 +1,3 @@
-CID: C4689667
-Recruiter: Nick Peppe
 Version: v20.01
 
 # CapOne DS Challenge
